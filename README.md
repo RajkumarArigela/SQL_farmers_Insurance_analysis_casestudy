@@ -142,7 +142,8 @@ If you're also learning or working in data analytics, feel free to connect and c
 - 📧 Email: rajkumaarigela@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/rajkumar-arigela-b958a2328](https://www.linkedin.com/in/rajkumar-arigela-b958a2328)  
 - 💻 GitHub: [github.com/RajkumarArigela](https://github.com/RajkumarArigela)
-
+  
+- instagram: https://www.instagram.com/rajkumar.arigela?igsh=dHV3NHQ4dWU5dnM1
 
 💡 Thanks for Visiting!
 If you found this project helpful or inspiring, please ⭐ star the repository or share it with others learning SQL and analytics.
