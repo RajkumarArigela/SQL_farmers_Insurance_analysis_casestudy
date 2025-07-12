@@ -134,20 +134,15 @@ MIT License — You’re welcome to fork, use, and customize this project in you
 Hi, I’m Rajkumar Arigela — an aspiring data analyst with a passion for solving business problems using SQL and data visualization.
 This project reflects my hands-on learning and practical problem-solving mindset in real-world scenarios.
 
-🌐 Let’s Connect
-I regularly share data-related projects, SQL tips, and interview preparation resources.
+## 🌐 Let’s Connect
+
+I regularly share data-related projects, SQL tips, and interview preparation resources.  
 If you're also learning or working in data analytics, feel free to connect and collaborate!
 
-📧 Email: rajkumararigela111@gmail.com
+- 📧 Email: rajkumaarigela@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/rajkumar-arigela-b958a2328](https://www.linkedin.com/in/rajkumar-arigela-b958a2328)  
+- 💻 GitHub: [github.com/RajkumarArigela](https://github.com/RajkumarArigela)
 
-💼 LinkedIn: 
-Let’s connect professionally and grow your data career
-
-📺 Instagram: 
-
-Quick SQL tips, data memes, and behind-the-scenes content
-
-💻 GitHub: RajkumarArigela
 
 💡 Thanks for Visiting!
 If you found this project helpful or inspiring, please ⭐ star the repository or share it with others learning SQL and analytics.
